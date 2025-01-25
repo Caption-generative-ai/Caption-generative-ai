@@ -1,6 +1,6 @@
 # Caption Generator Using Generative AI
 
-This project is a web application that generates catchy slogans or captions based on user-provided keywords using a generative AI model. The application uses Google's Generative AI (Gemini 2.0) to craft creative and engaging captions, making it ideal for marketers, content creators, and branding professionals.
+This project is a web application that generates catchy  captions based on user-provided keywords using a generative AI model. The application uses Google's Generative AI (Gemini 2.0) to craft creative and engaging captions, making it ideal for marketers, content creators, and branding professionals.
 
 ## Features
 - Input a keyword to generate creative slogans or captions.
