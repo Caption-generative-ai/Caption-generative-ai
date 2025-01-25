@@ -1,0 +1,71 @@
+
+body
+{
+    background-color: black;
+    color : white;
+    margin: 0;
+    overflow-x: hidden;
+}
+ .container{
+    max-width: 600px;
+    margin: auto;
+     padding: 10%; 
+    text-align: center;
+} 
+h1
+{
+    color : white;
+    text-shadow: 0 0 10px cyan,
+    0 0 20px cyan,
+    0 0 40px cyan,
+    0 0 80px cyan;
+}
+
+input
+{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 2%;
+    height: 10%;
+    margin: 5%;
+    padding: 20px;
+    background-color: black;
+    border-bottom : 1px solid white;
+    color : white;
+}
+
+button
+{
+    width: 140px !important;
+    height: 37px;
+    background-color: black;
+    border: none;
+    border-radius: 14px;
+    text-decoration: solid;
+    color:aliceblue;
+    border-color: aliceblue;
+    border-bottom-color: aliceblue;
+    text-shadow: 0 0 10px cyan,
+    0 0 10px cyan,
+    0 0 10px cyan,
+    0 0 10px cyan;
+}
+
+button:hover
+{
+    background-color: darkcyan;
+    color: white;
+    text-shadow: 0 0 10px cyan,
+    0 0 20px cyan,
+    0 0 40px cyan,
+    0 0 80px cyan;
+    cursor: pointer;
+}
+
+  .doodle {
+    overflow: hidden;
+  }
+
+
+  
