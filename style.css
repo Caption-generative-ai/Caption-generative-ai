@@ -41,6 +41,8 @@ button
     height: 37px;
     background-color: black;
     border: none;
+    font-size: larger;
+    font-family: fangsong;
     border-radius: 14px;
     text-decoration: solid;
     color:aliceblue;
